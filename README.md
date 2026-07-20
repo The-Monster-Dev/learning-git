@@ -1,13 +1,16 @@
-# Project Name
+# Learning Git
 
-## Feature
-
-## Instalization
-
-## Usage
+My Git and GitHub practice repository.
 
 ## Technologies
 
-## Screenshots
+- Git
+- GitHub
 
-## License
+## Purpose
+
+Learning professional Git workflow:
+- Branches
+- Pull Requests
+- Merge Conflicts
+- Collaboration
